@@ -1,7 +1,8 @@
 STC Assessment Submission 
 
-
 To execute 'STCProject' solution: 
+
+>>Please download the 'Lojeen-s-Submission' repository for the ASP.NET solution and video to run.  
 
 1. Open Visual Studio 2015+> open website> locate the website. 
 2. Select Google Chrome as your browser.
